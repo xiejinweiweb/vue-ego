@@ -4,7 +4,7 @@
     <!-- 为 ECharts 准备一个定义了宽高的 DOM -->
     <div
       id="main"
-      style="width: 600px; height: 400px; background-color: #fff"
+      style="width: 900px; height: 600px; background-color: #fff"
     ></div>
   </div>
 </template>

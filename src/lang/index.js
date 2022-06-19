@@ -12,7 +12,7 @@ const messages = {
   //英文
   en: {
     menu: {//自己需要翻译的变量太多时，也可以剔除出自己的语言如chinese.js 暴露一个对象 后面一样的再导入一个对象 ...zhLocal
-      home: 'home',
+      home: 'Home',
       goods: 'Goods Manage',
       params: 'Specification',
       advert: 'Ads Classification',
